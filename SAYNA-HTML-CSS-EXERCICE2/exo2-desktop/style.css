@@ -1,0 +1,272 @@
+body{
+    margin:0;
+    padding:0;
+    /* background:black; */
+}
+header{
+    background-color: black;
+    padding:10px;
+    border-bottom: 1px solid #27242b;
+}
+.liste{
+    padding:10px;
+    font-family: Open Sans, Arial, sans-serif;
+    display:flex;
+}
+.menu{
+    display:flex;
+    color:white;
+    list-style-type:none;
+}
+.menu li{
+    margin-left:100px;
+}
+.img{
+    width: 300px;
+    margin-left: 200px;
+}
+.Lien{
+    margin-left: 200px;
+    margin-top: 15px;
+    color:#3d9f96
+}
+.contenu{
+    font-size:35px;
+    text-align:center;
+    background: black;
+    padding-top: 30px;
+}
+.contenu > p{
+    color:#ababab;
+}
+strong{
+    color:#fff;
+}
+.new{
+    font-weight: bolder;
+    color:#3d9f96;
+    font-size:30px;
+}
+.Lien a{
+    color: #3d9f96;
+}
+.write{
+    font-size:23px;
+    color:#ababab
+}
+.boutton{
+    border: none;
+    background: #3d9f96;
+    padding:15px 70px;
+    border-radius:50px;
+    font-size: 20px;
+    color:white
+}
+.ordinateur{
+    margin-top:80px;
+}
+.ordinateur img{
+    width:60%;
+}
+.reseausocial{
+    text-align: center;
+    background-color: #ffff;
+    position:relative;
+    bottom: 200px;
+    padding-bottom:80px;
+}
+
+.reseausocial figure{
+    background-color: #f9f9f9;
+    padding:30px;
+    margin: 0;
+}
+.icon img{
+    margin-left: 60px;
+}
+.media{
+    color:#3d9f96;
+}
+.check{
+    font-size:35px;
+    margin-top: 100px;
+    color:rgba(0, 0, 0, 0.658);
+}
+.app{
+    color:black;
+}
+.text{
+    font-size: 20px;
+    color:#ababab;
+    margin:50px;
+}
+.container{
+    display: flex;
+    margin-left: 330px;
+    background-image: url("./img/map_bg.png");
+}
+.phone p{
+    color:#ababab;
+}
+.play{
+    background-image: url("./img/image_190px_1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:300px;
+}
+.play img{
+    margin-top: 140px;
+}
+.box{
+    margin-left:20px;
+}
+.center{
+    text-align:center;
+    background-color: black;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.center img{
+    background-color: white;
+    border-radius:50px;
+}
+.center p{
+    color:#fff
+}
+.auteur{
+    color: #3d9f96;
+    font-size:17px;
+}
+.public{
+    background-color:#f9f9f9;
+}
+.copy{
+    margin-right:520px;
+    font-size:30px;
+}
+.copy strong{
+    font: bolder;
+    color: black;
+}
+.screen{
+    display: flex;
+    margin-left: 250px;
+    font-weight: bolder;
+}
+.logo2{
+    margin-left: 300px;
+    background-color: #fff;
+    height: 600px;
+    position: relative;
+    display:flex;
+}    
+.image-two img{
+    margin-top: 120px;
+    margin-right: 150px;
+}
+.image-two{
+   background-image: url("./img/image_300px_1.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 300px;
+   height: 300px;
+  
+}
+.texte2{
+    font-size:35px;
+    margin-left: 150px;
+}
+.gg{
+    font-weight: bolder;
+    color:black;
+}
+.go{
+    font-size:20px;
+    color:#ababab;
+}
+.goal{
+    background: #3d9f96;
+    border:none;
+    padding:20px 60px;
+    color:#fff;
+    border-radius:70px;
+    font-size:18px;
+}
+.lent{
+    display: flex;
+    background: #fff;
+    position:relative;
+    bottom:500px;
+}
+.repaire{
+    margin-left:300px ;
+}
+.bon{
+    font-size: 20px;
+}
+.noob{
+    color: #27242b;
+    font-size: 25px;
+}
+.good{
+    color: #ababab;
+}
+.site{
+    border: none;
+    padding: 20px 60px;
+    background: #3d9f96;
+    border-radius: 70px;
+    color: #fff;
+    margin-top: 50px;
+}
+.ufo{
+    margin-left:200px;
+}
+.pied{
+    background: #f9f9f9;
+    display: flex;
+    position: relative;
+    bottom:500px;
+    padding-left: 300px;
+}
+.noir{
+    color:#ababab;
+}
+.noir img{
+    width:300px;
+}
+.option{
+    padding-left: 90px;
+}
+.option ul{
+    list-style-type: none;
+}
+.option ul li{
+    color: #ababab;
+}
+.local{
+    padding-left: 100px;
+}
+.local p{
+    color:#ababab;
+}
+.end{
+    background: #fff;
+    position: relative;
+    bottom:500px;
+    display: flex;
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.All p{
+    font-size: 18px;
+    color:#ababab;
+}
+.city{
+    padding-left: 300px;
+}
+.city img{
+    width:30px;
+    padding: 15px;
+}
